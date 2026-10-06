@@ -14,3 +14,19 @@ let c = 2.3;
 
 let lloviendo = true;
 let soleado = false;
+
+//variables sin valor
+
+let ciudad;
+let precio;
+let valor;
+
+//nomenclatura de variables
+/* se debe usar camelCase, no se debe dejar espacios, ni comenzar con un número */
+
+//camelCase 
+let fechaEntrega = "lunes";
+//signo de $
+let $precio = 200;
+//variable con guion bajo
+let _name = "Elizacbeth";
