@@ -1,6 +1,6 @@
 este es el archivo readme
 
-tu puedes, arriegate! 
+tu puedes, arriesgate! 
 
 siempre un 1%
 
