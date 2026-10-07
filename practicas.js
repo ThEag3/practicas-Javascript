@@ -30,3 +30,9 @@ let fechaEntrega = "lunes";
 let $precio = 200;
 //variable con guion bajo
 let _name = "Elizacbeth";
+
+//constantes se usa la palabra reservada const
+
+const Pi = 3.14;
+const usersMax = 120;
+const usersMin = 50;
