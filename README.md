@@ -10,3 +10,7 @@ agregue variables vacias, nomenclatura de variables.
 actualizacion 7/10/26
 cambio1: agregue mas variables (constantes)
 cambio2 operadores (aritmeticos) modulo y basicos 
+
+actualizacion 9/10/26
+cambio1: agregue los atajos de los operadores aritmeticos
+cambio2: agregue los los operadores de comparacion
