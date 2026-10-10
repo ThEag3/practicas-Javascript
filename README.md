@@ -14,3 +14,7 @@ cambio2 operadores (aritmeticos) modulo y basicos
 actualizacion 9/10/26
 cambio1: agregue los atajos de los operadores aritmeticos
 cambio2: agregue los los operadores de comparacion
+
+actualizacion 10/10/26
+
+cambio1: agregue los operadotes debil, estrictos y los operadores logicos AND, OR, NOT
