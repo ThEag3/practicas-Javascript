@@ -36,3 +36,17 @@ let _name = "Elizacbeth";
 const Pi = 3.14;
 const usersMax = 120;
 const usersMin = 50;
+
+//coercion de tipos de datos
+
+let num = 10;
+let str = "5";
+let bol = true;
+
+let a2 = String(num); //coercion de number a string
+let b2 = Number(str); //coercion de string a number
+let c2 = Number(bol); //coercion de boolean a number
+let d2 = num + str; //coercion de number a string
+let e2 = Bolean()
+
+console.log({a2, b2, c2, d2});

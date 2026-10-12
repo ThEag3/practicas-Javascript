@@ -18,3 +18,8 @@ cambio2: agregue los los operadores de comparacion
 actualizacion 10/10/26
 
 cambio1: agregue los operadotes debil, estrictos y los operadores logicos AND, OR, NOT
+
+actualizacion 12/10/26
+
+cambio1: agregue mas operadores ley de morgan
+cambio2: coercion de tipos number, string y booleano

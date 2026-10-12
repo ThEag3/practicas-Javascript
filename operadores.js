@@ -169,3 +169,23 @@ console.log({e3});
 let productoDisponible = false;
 let productoAgotado = !productoDisponible;
 console.log({productoAgotado});
+
+//operadores unidos ley de morgan (&&, ||, !)
+
+let cansado = false;
+let aburrido = true;
+
+let puedeEntrar = !(cansado || aburrido);
+
+let puedeEntrar2 = !cansado && !aburrido;
+
+console.log({puedeEntrar, puedeEntrar2});
+
+//ejemplo de operadores unidos ley de morgan
+
+let z1 = true
+let z2 = false
+let z3 = true
+
+let z4 = z1 && z2 && (!z3);
+console.log({z4});
